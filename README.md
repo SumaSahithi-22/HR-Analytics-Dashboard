@@ -79,10 +79,10 @@ HR-Analytics-Dashboard
 ## 📷 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard](screenshots/Dashboard.jpg)
+![Dashboard](screenshorts/Dashboard.jpg)
 
 ### Employee Details Page
-![Employee Details](screenshots/Drillthrough.jpg)
+![Employee Details](screenshorts/Drillthrough.jpg)
 
 ---
 
