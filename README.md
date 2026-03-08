@@ -1,7 +1,7 @@
 # Interactive HR Analytics Dashboard
 
 ## 📊 Project Overview
-The Interactive HR Analytics Dashboard is a Power BI project designed to analyze employee workforce data and provide actionable insights into employee demographics, tenure, roles, and organizational distribution.
+The Interactive HR Analytics Dashboard is a data visualization project built using **Power BI and Tableau** to analyze employee workforce data and generate insights into employee demographics, tenure, roles, and organizational distribution.
 
 This dashboard enables HR teams and management to make data-driven workforce decisions by exploring employee trends across multiple dimensions such as designation, age group, gender, marital status, and location.
 
@@ -9,6 +9,7 @@ This dashboard enables HR teams and management to make data-driven workforce dec
 
 ## 🛠 Tools & Technologies
 - Power BI
+- Tableau
 - DAX (Data Analysis Expressions)
 - Data Modeling
 - Excel Dataset
@@ -67,29 +68,30 @@ HR-Analytics-Dashboard
 │
 ├── Dataset.xlsx
 ├── HR_Analytics_Dashboard.pbix
+├── HR_Analytics_Tableau.twbx
 ├── screenshots
 │   ├── dashboard_overview_PowerBI.jpg
 │   ├── drillthrough.jpg
 │   ├── dashboard_overview_Tableau.jpg
 │
 └── README.md
+
 ```
 
 ---
 
 ## 📷 Dashboard Preview
 
-### Dashboard Overview Power BI
+### Power BI Dashboard
 ![Dashboard](screenshorts/Dashboard_overview_powerBI.jpg)
 
-### Employee Details Page
+### Power BI Drillthrough Page
 ![Employee Details](screenshorts/Drillthrough.jpg)
 
-### Dashboard Overview Tableau
+### Tableau Dashboard
 ![Dashboard](screenshorts/Dashboard_overview_Tableau.jpg)
 
----
-🔗 **View Live Dashboard:**  
+🔗 **View Interactive Tableau Dashboard:**  
 [Open Tableau Dashboard](https://public.tableau.com/app/profile/suma.sahithi/viz/Task_17729868442990/Dashboard1?publish=yes)
 
 ## 🎯 Business Value
@@ -105,10 +107,17 @@ This dashboard helps organizations:
 
 ## 🚀 How to Use
 
+### Power BI
 1. Download the `.pbix` file
-2. Open it using **Power BI Desktop**
-3. Connect or refresh the dataset if needed
-4. Interact with filters and drill-through pages
+2. Open using **Power BI Desktop**
+3. Refresh or connect the dataset
+4. Interact with slicers and drill-through pages
+
+### Tableau
+1. Download the `.twbx` file
+2. Open using **Tableau Desktop**
+3. Connect the dataset if required
+4. Explore interactive visualizations
 
 ---
 
@@ -117,7 +126,7 @@ This dashboard helps organizations:
 **Sumasahithi**
 
 - Data Analytics Enthusiast
-- Skills: Python, SQL, Power BI, Machine Learning, Django
+- Skills: Python, SQL, Power BI, Tableau
 
 ---
 
