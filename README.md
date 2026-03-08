@@ -68,8 +68,9 @@ HR-Analytics-Dashboard
 ├── Dataset.xlsx
 ├── HR_Analytics_Dashboard.pbix
 ├── screenshots
-│   ├── dashboard.jpg
+│   ├── dashboard_overview_PowerBI.jpg
 │   ├── drillthrough.jpg
+│   ├── dashboard_overview_Tableau.jpg
 │
 └── README.md
 ```
@@ -78,13 +79,18 @@ HR-Analytics-Dashboard
 
 ## 📷 Dashboard Preview
 
-### Dashboard Overview
-![Dashboard](screenshorts/Dashboard.jpg)
+### Dashboard Overview Power BI
+![Dashboard](screenshorts/Dashboard_overview_powerBI.jpg)
 
 ### Employee Details Page
 ![Employee Details](screenshorts/Drillthrough.jpg)
 
+### Dashboard Overview Tableau
+![Dashboard](screenshorts/Dashboard_overview_Tableau.jpg)
+
 ---
+🔗 **View Live Dashboard:**  
+[Open Tableau Dashboard](https://public.tableau.com/app/profile/suma.sahithi/viz/Task_17729868442990/Dashboard1?publish=yes)
 
 ## 🎯 Business Value
 This dashboard helps organizations:
