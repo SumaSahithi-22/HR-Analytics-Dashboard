@@ -68,8 +68,8 @@ HR-Analytics-Dashboard
 ├── Dataset.xlsx
 ├── HR_Analytics_Dashboard.pbix
 ├── screenshots
-│   ├── dashboard_overview.png
-│   ├── drillthrough.png
+│   ├── dashboard.jpg
+│   ├── drillthrough.jpg
 │
 └── README.md
 ```
@@ -79,10 +79,10 @@ HR-Analytics-Dashboard
 ## 📷 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](screenshots/Dashboard.jpg)
 
 ### Employee Details Page
-![Employee Details](screenshots/employee_details.png)
+![Employee Details](screenshots/Drillthrough.jpg)
 
 ---
 
