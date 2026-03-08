@@ -69,7 +69,7 @@ HR-Analytics-Dashboard
 ├── HR_Analytics_Dashboard.pbix
 ├── screenshots
 │   ├── dashboard_overview.png
-│   ├── employee_details.png
+│   ├── drillthrough.png
 │
 └── README.md
 ```
